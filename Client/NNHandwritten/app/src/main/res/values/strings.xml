@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NNHandwritten</string>
+    <string name="server_address_hint">IP do servidor</string>
+    <string name="server_port_hint">Porta do servidor</string>
+    <string name="connect">Conectar</string>
+</resources>
