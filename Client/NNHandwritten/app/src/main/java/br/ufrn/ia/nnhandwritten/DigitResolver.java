@@ -48,7 +48,8 @@ public class DigitResolver {
                     public void onErrorResponse(VolleyError error) {
                         Log.e(TAG, "Request error", error);
 
-                        textViewDigit.setText("Erro na requisição!");
+                        textViewDigit.setText("X");
+                        textViewMatch.setText("Request error");
                     }
                 }
         ) {

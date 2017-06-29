@@ -222,6 +222,9 @@ public class CameraActivity extends FragmentActivity implements Runnable, Camera
         if (!mCaptured) {
             mCaptureButton.setEnabled(false);
             mFlashToggle.setEnabled(false);
+
+            mTextViewDigit.setText("");
+            mTextViewMatch.setText("");
             run();
         } else {
             mDigitImageView.setBackground(getResources().getDrawable(R.drawable.red_border));

@@ -139,7 +139,6 @@ def load_weights():
 
     weights_loaded = True
 
-
 #load_weights()
 train_mnist()
 save_weights()
