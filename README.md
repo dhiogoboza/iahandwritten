@@ -29,5 +29,5 @@ To use the android client just install the app-debug.apk, located in Client/NNHa
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
