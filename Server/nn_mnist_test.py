@@ -382,4 +382,4 @@ if (len(sys.argv) > 1):
     else:
         test_single_image(sys.argv[1])
 else:
-    print("Usage nn_mnist.py [-i input_image] | [-camera] | [-mnist] | [-tests]")
+    print("Usage nn_mnist.py [input_image_path] | [-camera] | [-mnist] | [-tests]")
